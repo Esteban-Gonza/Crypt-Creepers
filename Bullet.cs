@@ -8,7 +8,6 @@ public class Bullet : MonoBehaviour{
     [SerializeField] float speed = 5;
 
     public Renderer rend;
-
     public bool powerShoot;
 
     void Start(){
